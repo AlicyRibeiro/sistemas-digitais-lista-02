@@ -47,8 +47,10 @@ Abaixo estão listadas as soluções desenvolvidas para cada questão da lista.
 - **Descrição:**  
   Projeto de um circuito customizado que atende a um conjunto de restrições (5 entradas, 2 saídas, mínimo de 2 FFs, etc.) e seu mapeamento para a arquitetura FPGA 2-CLB fornecida.
 
-- **Solução:**  
-  `[Link para a Solução Q1.md]`
+- **Solução:**
+  
+  ![Link para a Solução Q1.md](Lista02/Q-01/Q-01-resolucao.md)
+
 
 ---
 
