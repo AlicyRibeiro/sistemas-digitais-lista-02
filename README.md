@@ -60,9 +60,9 @@ Abaixo estão listadas as soluções desenvolvidas para cada questão da lista.
   Elaboração de três circuitos distintos (a, b e c) que operam dentro de restrições específicas de tempo, com base em uma tabela de atrasos de portas lógicas (AND, OR, XOR, etc.).
 
 - **Soluções:**
-  - **2a)** Frequência máxima = 200 MHz — `[Link para a Solução Q2a.md]`  
-  - **2b)** Atraso de caminho entre 6 ns e 10 ns — `[Link para a Solução Q2b.md]`  
-  - **2c)** Frequência ≥ 275 MHz (usando XOR e NAND) — `[Link para a Solução Q2c.md]`
+  - **2a)** Frequência máxima = 200 MHz — [Link para a Solução Q2a.md](Lista02/Q-02/Q-02-alternativa-a-resolucao.md)
+  - **2b)** Atraso de caminho entre 6 ns e 10 ns — [Link para a Solução Q2b.md](Lista02/Q-02/Q-02-alternativa-b-resolucao.md)  
+  - **2c)** Frequência ≥ 275 MHz (usando XOR e NAND) — [Link para a Solução Q2c.md](Lista02/Q-02/Q-02-alternativa-c-resolucao.md)
 
 ---
 
