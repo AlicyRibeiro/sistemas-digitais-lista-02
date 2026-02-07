@@ -44,9 +44,29 @@ Incondicional para o estado Q (01).
 
 ## Diagrama de Estados
 
+```mermaid
+stateDiagram-v2
+    direction LR
+
+    Q : Estado Q (01)\nT_s=0\nT_reg=1\nNoreg=0
+    R : Estado R (10)\nT_s=1\nT_reg=1\nNoreg=1
+
+    Q --> Q : b = 0
+    Q --> R : b = 1
+    R --> Q : incondicional
+
+```
 
 (Saídas Q: T_s = 0, T_reg = 1, Noreg = 0)  
 (Saídas R: T_s = 1, T_reg = 1, Noreg = 1)
+
+### O que esse diagrama representa
+- **Estados codificados em one-hot**
+  - Q = `01`
+  - R = `10`
+- **FSM do tipo Moore** (saídas dependem apenas do estado)
+- As saídas já estão anotadas dentro de cada estado
+- As transições estão rotuladas exatamente como no enunciado
 
 ---
 
@@ -59,3 +79,4 @@ Incondicional para o estado Q (01).
 | 1 0                  | X           | 0 1                    | 1   | 1     | 1      |
 | 0 0                  | X           | X X                    | X   | X     | X      |
 | 1 1                  | X           | X X                    | X   | X     | X      |
+
