@@ -49,7 +49,7 @@ Abaixo estão listadas as soluções desenvolvidas para cada questão da lista.
 
 - **Solução:**
   
-  ![Link para a Solução Q1.md](Lista02/Q-01/Q-01-resolucao.md)
+  [Link para a Solução Q1.md](Lista02/Q-01/Q-01-resolucao.md)
 
 
 ---
