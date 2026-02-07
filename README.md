@@ -76,7 +76,7 @@ Abaixo estão listadas as soluções desenvolvidas para cada questão da lista.
   Construção da tabela-verdade e da FSM do bloco de controle para um datapath, utilizando codificação **one-hot** (Qe = 01, R = 10).
 
 - **Solução:**  
-  `[Link para a Solução Q3.md]`
+   [Link para a Solução Q3.md](Lista02/Q-03/Q-03-resolucao.md)
 
 ---
 
