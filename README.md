@@ -64,6 +64,10 @@ Abaixo estão listadas as soluções desenvolvidas para cada questão da lista.
   - **2b)** Atraso de caminho entre 6 ns e 10 ns — [Link para a Solução Q2b.md](Lista02/Q-02/Q-02-alternativa-b-resolucao.md)  
   - **2c)** Frequência ≥ 275 MHz (usando XOR e NAND) — [Link para a Solução Q2c.md](Lista02/Q-02/Q-02-alternativa-c-resolucao.md)
 
+
+- **Simulações:**
+
+    [Link para a Solução Simulações](Lista02/Q-02/simulações)
 ---
 
 ### Questão 3 — Datapath e Controle (Codificação One-Hot)
