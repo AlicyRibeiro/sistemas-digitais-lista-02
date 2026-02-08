@@ -86,8 +86,8 @@ Abaixo estão listadas as soluções desenvolvidas para cada questão da lista.
   Apresentação da tabela-verdade e do circuito do bloco de controle para um segundo datapath, utilizando **codificação binária padrão**.
 
 - **Soluções:**
-  - **2a)**  [Link para a Solução Q2a.md](Lista02/Q-04/Q-04-alternativa-a-resolucao.md)
-  - **2b)**  [Link para a Solução Q2b.md](Lista02/Q-04/Q-04-alternativa-b-resolucao.md)  
+  - **4a)**  [Link para a Solução Q2a.md](Lista02/Q-04/Q-04-alternativa-a-resolucao.md)
+  - **4b)**  [Link para a Solução Q2b.md](Lista02/Q-04/Q-04-alternativa-b-resolucao.md)  
 
 ---
 
