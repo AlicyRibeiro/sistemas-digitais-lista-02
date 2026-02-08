@@ -85,8 +85,9 @@ Abaixo estão listadas as soluções desenvolvidas para cada questão da lista.
 - **Descrição:**  
   Apresentação da tabela-verdade e do circuito do bloco de controle para um segundo datapath, utilizando **codificação binária padrão**.
 
-- **Solução:**  
-  `[Link para a Solução Q4.md]`
+- **Soluções:**
+  - **2a)**  [Link para a Solução Q2a.md](Lista02/Q-04/Q-04-alternativa-a-resolucao.md)
+  - **2b)**  [Link para a Solução Q2b.md](Lista02/Q-04/Q-04-alternativa-b-resolucao.md)  
 
 ---
 
@@ -96,7 +97,7 @@ Abaixo estão listadas as soluções desenvolvidas para cada questão da lista.
   Demonstração de como um bloco de controle (registrador de estado + lógica combinacional) pode ser implementado em uma arquitetura FPGA baseada em **LUTs 3×1** e matrizes de interconexão.
 
 - **Solução:**  
-  `[Link para a Solução Q5.md]`
+  [Link para a Solução Q5.md](Lista02/Q-05/Q-05-resolucao.md)
 
 ---
 
@@ -106,4 +107,4 @@ Abaixo estão listadas as soluções desenvolvidas para cada questão da lista.
   Cálculo do tempo e da frequência dos caminhos de **maior (crítico)** e **menor atraso** para os circuitos das questões anteriores, considerando novos parâmetros de atraso (portas lógicas = 1 ns, datapath = 3 ns).
 
 - **Solução:**  
-  `[Link para a Solução Q6.md]`
+  [Link para a Solução Q6.md](Lista02/Q-06/Q-06-resolucao.md)
