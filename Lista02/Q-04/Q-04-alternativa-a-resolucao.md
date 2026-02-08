@@ -44,4 +44,5 @@ BoostH_ld = p0
 
 ## Circuito
 
-![Circuito da Questão 2.30 - item a](figuras/Questão3.15.jpeg)
+![Circuito da Questão 2.30 - item a](figuras/circuito.png)
+
